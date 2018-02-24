@@ -1,6 +1,6 @@
 # Kattis Problems
-Name: Difficulty\n
-Aaah!: 1.5\n
-Judging Moose: 1.3\n
-Trik: 1.3
-Tarifa: 1.2
+Problem Name : Difficulty<br />
+Aaah!: 1.5<br />
+Judging Moose: 1.3<br />
+Trik: 1.3<br />
+Tarifa: 1.2<br />
